@@ -1,5 +1,5 @@
 # Cypress Direto ao Ponto
-Esse é um repositório que contém a automação de alguns testes Web utilizando Cypress de um website chamado dev.finance disponibilizado pela Agilizei. Os tópicos abaixo descrevem algumas informações relacionadas à estruturação do projeto.
+Esse é um repositório que contém a automação de alguns testes Web utilizando Cypress de um website chamado dev.finance disponibilizado pela Agilizei. Após completar o curso da Agilizei sobre Cypres, resolvi criar esse repositório para aprimorar minhas habilidades com o passar do tempo. Os tópicos abaixo descrevem algumas informações relacionadas à estruturação do projeto.
 
 ## Tecnologias Utilizadas
 
